@@ -1,6 +1,6 @@
 
 ---
-title: "TechOS-Dokumentasjon"
+title: "SRiB Tekniske Dokumentasjon"
 linkTitle: "Dokumentasjon"
 weight: 20
 menu:
