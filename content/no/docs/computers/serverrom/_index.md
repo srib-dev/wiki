@@ -1,9 +1,9 @@
 ---
-title: "Datamaskiner"
-linkTitle: "Datamaskiner"
+title: "Datamaskiner i serverrommet"
+linkTitle: "Serverrom"
 date: 2023-01-02
 description: >
-  En oversikt over alle datamaskinene som er i bruk for radio-drift.
+  En oversikt over datamaskinene i serverrommet som brukes til radiodrift.
 ---
 
 Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.
