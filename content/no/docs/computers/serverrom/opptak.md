@@ -1,6 +1,6 @@
 ---
 title: "Opptak"
-linkTitle: "Opptaks-PC"
+linkTitle: "Opptak"
 date: 2023-01-02
 weight: 2
 description: >
