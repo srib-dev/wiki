@@ -161,7 +161,7 @@ For å kunne kontrollere denne enheten, trenger man tilsynelatende et windows-pr
 | Shipping weight | Approx 15 lbs. (6.8 kg) |
 | Certifications | CE Mark, ISO-9002 manufactured |
 
-#### Kilder
+### Kilder
 
 [CDQ Prima Users Guide](https://manualzz.com/doc/4130385/cdqprima-6.34-user-s-manual), sist lest 05.01.2023
 

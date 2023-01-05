@@ -1,6 +1,6 @@
 ---
-title: "Electrolink 'Orchestra 50'"
-linkTitle: "Electrolink Orchestra 50"
+title: "Electrolink Orchestra"
+linkTitle: "Electrolink Orchestra"
 date: 2023-01-02
 weight: 2
 description: >
