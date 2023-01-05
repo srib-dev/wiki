@@ -6,3 +6,5 @@ weight: 2
 description: >
   En beskrivelse av maskintjeneren som verter BCS.
 ---
+
+Dell Poweredge r240

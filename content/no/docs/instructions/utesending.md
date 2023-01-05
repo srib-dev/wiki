@@ -4,5 +4,5 @@ linkTitle: "Utesending"
 date: 2023-01-02
 weight: 2
 description: >
-  En gjennomgang av hva som er greit å tenke på når en skal rigge opp til utesending.
+  En gjennomgang av hvordan en rigger opp til utesending.
 ---
