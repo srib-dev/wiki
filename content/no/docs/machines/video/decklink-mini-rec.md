@@ -1,8 +1,8 @@
 ---
-title: "DeckLink Mini Recorder HD"
-linkTitle: "ADMS 44.22"
-date: 2023-01-02
+title: "BlackMagic DeckLink Mini Recorder HD"
+linkTitle: "Decklink Mini Recorder HD"
+date: 2023-01-22
 weight: 2
 description: >
-  En beskrivelse av kanalvelgeren.
+  En beskrivelse av PCIe-videokortet som brukes til video-opptak og strømminger.
 ---

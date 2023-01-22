@@ -1,8 +1,8 @@
 ---
-title: "ADMS 44.22 - AES/Analog Digital Matrix Switcher"
-linkTitle: "ADMS 44.22"
-date: 2023-01-02
+title: "Behringer PowerPlay Pro-8 HA8000"
+linkTitle: "Behringer Pro-8 HA8000"
+date: 2023-01-22
 weight: 2
 description: >
-  En beskrivelse av kanalvelgeren.
+  En beskrivelse av defekt øreklaff-forsterker.
 ---

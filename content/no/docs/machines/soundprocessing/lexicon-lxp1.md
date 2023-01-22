@@ -1,8 +1,8 @@
 ---
-title: "ADMS 44.22 - AES/Analog Digital Matrix Switcher"
-linkTitle: "ADMS 44.22"
-date: 2023-01-02
+title: "Lexicon LXP-1 Multi-effects Processing Module"
+linkTitle: "Lexicon LXP-1"
+date: 2023-01-22
 weight: 2
 description: >
-  En beskrivelse av kanalvelgeren.
+  En beskrivelse av en defekt effektboks.
 ---

@@ -1,8 +1,8 @@
 ---
-title: "ADMS 44.22 - AES/Analog Digital Matrix Switcher"
-linkTitle: "ADMS 44.22"
-date: 2023-01-02
+title: "BW Broadcast DSPX-FM"
+linkTitle: "DSPX-FM"
+date: 2023-01-22
 weight: 2
 description: >
-  En beskrivelse av kanalvelgeren.
+  En beskrivelse av signalbehandleren før FM-utsending.
 ---

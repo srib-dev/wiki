@@ -1,8 +1,8 @@
 ---
-title: "ADMS 44.22 - AES/Analog Digital Matrix Switcher"
-linkTitle: "ADMS 44.22"
-date: 2023-01-02
+title: "Focusrite Scarlett 2i2 3rd Gen"
+linkTitle: "Focusrite 2i2"
+date: 2023-01-22
 weight: 2
 description: >
-  En beskrivelse av kanalvelgeren.
+  En beskrivelse av USB-lydkortet som brukes på innspillingsrommet. Vi har også en til utesendinger.
 ---

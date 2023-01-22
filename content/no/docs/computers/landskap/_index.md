@@ -1,4 +1,3 @@
-
 ---
 title: "Felles datamaskiner i landskapet"
 linkTitle: "Landskapet"

@@ -1,8 +1,8 @@
 ---
-title: "ADMS 44.22 - AES/Analog Digital Matrix Switcher"
-linkTitle: "ADMS 44.22"
-date: 2023-01-02
+title: "Behringer Xenyx Q502 USB"
+linkTitle: "Xenyx Q502 USB"
+date: 2023-01-22
 weight: 2
 description: >
-  En beskrivelse av kanalvelgeren.
+  En beskrivelse av miksekonsollen som brukes av produsenter for å snakke med de i studio.
 ---
