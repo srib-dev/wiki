@@ -1,7 +1,7 @@
 ---
 title: "Hjemmesnekret PC: Opptak"
 linkTitle: "Opptak"
-date: 2023-01-02
+date: 2023-02-05
 weight: 2
 description: >
   En beskrivelse av Opptaks-PC'en.
@@ -39,13 +39,13 @@ Det som bestemmer om kanalvelgeren skal bytte til stille-alarmen er et hjemmesne
 
 En liten sjekkliste av hva du må forsikre deg om faktisk kjører, når du skrur på maskinen igjen.
 
-1. Start MultiCoder. [Detaljer her](/content/no/docs/digasystem/multicoder.md)
+1. Start MultiCoder. [Detaljer her](/docs/digasystem/multicoder)
 2. Start stillealarm-spillelisten.
    1. Åpne mappen med alle lydklippene.
    2. Dra -og slipp alle filene over VLC-programmet.
    3. Gå til "Audio Settings > Aduio Device" og sørg for at riktig lydkanal er valgt.
-3. Start Sound Empire Caster. [Detaljer her](/content/no/docs/software/soundempire.md)
-4. Start Oddcast V3. [Detaljer her](/content/no/docs/software/oddcast.md)
+3. Start Sound Empire Caster. [Detaljer her](/docs/software/soundempire)
+4. Start Oddcast V3. [Detaljer her](/docs/software/oddcast)
 
 ### Spesifikasjoner
 
