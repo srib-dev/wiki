@@ -13,6 +13,8 @@ Denne maskinen er én av 2 maskiner dedikert til tjenester som er nødvendige fo
 
 Denne maskinen har som hovedoppgave å sørge for at BCS kjører og at MySQL-backupen kjører.
 
+Den er installert med VMWare ESXi 7 Kernel, som kjører virtuelle maskiner. 
+
 ## Tjenester
 
 Maskinen er installert med en versjon av VMWare ESXi for å kjøre virtuelle maskiner. På den måten kan vi isolere miljøene for hvert nødvendige program for å forhindre miljøkonflikter mellom programmer. 
