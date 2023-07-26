@@ -21,6 +21,14 @@ Dette diagrammet er gjeldende for både studio 1 og studio 2.
 
 I sentrum av studio er miksebordet, [Presonus StudioLive 32 SC](/docs/machines/soundprocessing/studiolive). Dette er hva de følgende forklaringene tar utgangspunkt i. 
 
+#### Konfigurering
+
+Alle Aux-mikser har muligheten til å settes i en konfigurasjon hvor de enten operer uavhengig eller avhengig av nivået på faderen til **Main**. Det kalles *pre-fade* eller *post-fade*. 
+
+Ved å sette Aux-miks (1-2) og Aux-miks (3-4) i *post-fade* gjør vi begge miksene avhengig av **Main**. Det betyr det at inne i miksene kan f.eks. alle faderne stå oppe, men det vil ikke sendes ut lyd før faderne til **Main** er oppe. Så alle justeringer man gjør i **Main**, som volumkontroll, demping, EQ, osv, sendes til begge miksene samtidig. 
+
+På denne måten, selv om utgangene er fysisk koblet til å gå forskjellige steder, kan vi ta opp lyd lokalt på studio-pc'en samtidig som vi styrer lyden mens vi er på luften. Signalene i begge fysiske oppkoblede retninger får samme lydnivåer. 
+
 #### Lyd inn
 
 Fire mikrofoner, [Røde Podmic](/docs/machines/microphones/rode-podmic), er koblet til miksebordet. Det er åpenbart hva de er der for. Disse mikrofonene har ganske lavt volum på opptak. Derfor bruker vi en [Triton FetHead](/docs/machines/soundprocessing/triton-fethead) for å forsterke mikrofon-signalet med rundt 27dB ekstra. 
